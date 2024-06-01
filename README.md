@@ -11,4 +11,5 @@ There are 7166 rows and 7 columns in the dataet.
 5. Department : Department to which candidate has applied job.
 6. post_name : position level within the company.
 7. offered_salary : Salary offered by company.
-The process of my approach is mentioned in the pdf report file. and the end results can be seen in the provided Microsoft Excel file.
+> [!NOTE]
+> The process of my approach is mentioned in the pdf report file. and the end results can be seen in the provided Microsoft Excel file.
